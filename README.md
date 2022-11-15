@@ -1,0 +1,2 @@
+# ProjetosNetCore
+Projetos de Estudo
